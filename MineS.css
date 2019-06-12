@@ -1,0 +1,19 @@
+.basicSlot{
+    background-color: blue;
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    text-align:center;
+    line-height: 650%;
+}
+
+#board{
+    display:flex;
+    flex-wrap:wrap;
+    height:55%;
+    width:55%;
+}
+
+body{
+    display: flex
+}
